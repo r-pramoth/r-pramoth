@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+  <title id="title">Have an embedded or firmware role in mind? I'd love to hear about it.</title>
+  <desc id="desc">A simple contact invitation above a gently rolling wave.</desc>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <rect width="1200" height="132" rx="14" fill="#f6f7f1"/>
+  <text x="40" y="44" fill="#3f5b4d" font-size="24">Have an embedded or firmware role in mind?</text>
+  <text x="40" y="77" fill="#69786c" font-size="19">I'd love to hear about it.</text>
+  <path d="M0 113 Q300 91 600 113 T1200 113 V132 H0Z" fill="#dce9df"/>
+  <path class="motion" d="M0 113 Q300 91 600 113 T1200 113 V132 H0Z" fill="#cbded1" opacity=".6">
+    <animate attributeName="d" values="M0 113 Q300 91 600 113 T1200 113 V132 H0Z;M0 107 Q300 128 600 107 T1200 107 V132 H0Z;M0 113 Q300 91 600 113 T1200 113 V132 H0Z" dur="16s" repeatCount="indefinite"/>
+  </path>
+</svg>
