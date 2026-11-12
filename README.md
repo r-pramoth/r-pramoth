@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hello.svg" width="100%" alt="Hi, I'm Pramothraj — an animated introduction to embedded systems and firmware" />
+  <img src="./assets/hello.svg?v=colour-2" width="100%" alt="Hi, I'm Pramothraj — an animated introduction to embedded systems and firmware" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I'm looking for my first **embedded systems or firmware role**, and using this s
 
 📍 Chennai, India
 
-<img src="./assets/quiet-line.svg" width="100%" height="28" alt="" />
+<img src="./assets/quiet-line.svg?v=colour-2" width="100%" height="36" alt="" />
 
 ### Things I've worked on
 
@@ -38,17 +38,17 @@ The repository includes offline regression tests and automated checks. Job leads
 
 [Browse the project →](https://github.com/r-pramoth/embedded-systems-job-search) &nbsp; · &nbsp; [Tests](https://github.com/r-pramoth/embedded-systems-job-search/blob/main/tests/test_job_search.py) &nbsp; · &nbsp; [Automated checks](https://github.com/r-pramoth/embedded-systems-job-search/actions/workflows/ci.yml)
 
-<img src="./assets/quiet-line.svg" width="100%" height="28" alt="" />
+<img src="./assets/quiet-line.svg?v=colour-2" width="100%" height="36" alt="" />
 
 ### My technical background
 
 <p>
-  <img alt="C" src="https://img.shields.io/badge/C-52695B?style=flat&amp;logo=c&amp;logoColor=white" />
-  <img alt="Embedded C" src="https://img.shields.io/badge/Embedded_C-477A70?style=flat" />
-  <img alt="ARM" src="https://img.shields.io/badge/ARM-557F8A?style=flat&amp;logo=arm&amp;logoColor=white" />
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-9C6B51?style=flat&amp;logo=espressif&amp;logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-867550?style=flat&amp;logo=linux&amp;logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-7D7065?style=flat&amp;logo=git&amp;logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-2563EB?style=flat&amp;logo=c&amp;logoColor=white" />
+  <img alt="Embedded C" src="https://img.shields.io/badge/Embedded_C-7C3AED?style=flat" />
+  <img alt="ARM" src="https://img.shields.io/badge/ARM-0891B2?style=flat&amp;logo=arm&amp;logoColor=white" />
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E35D6A?style=flat&amp;logo=espressif&amp;logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-D97706?style=flat&amp;logo=linux&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-E76F51?style=flat&amp;logo=git&amp;logoColor=white" />
 </p>
 
 Things I've studied or worked with:
@@ -86,7 +86,7 @@ Git · Arduino IDE · Keil µVision · MPLAB IDE · Proteus · MATLAB · LTspice
 <br />
 
 <a href="mailto:pramothrajeee@gmail.com">
-  <img src="./assets/contact.svg" width="100%" alt="Have an embedded or firmware role in mind? I'd love to hear about it." />
+  <img src="./assets/contact.svg?v=colour-2" width="100%" alt="Have an embedded or firmware role in mind? I'd love to hear about it." />
 </a>
 
 [Email me](mailto:pramothrajeee@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/pramothraj/)
