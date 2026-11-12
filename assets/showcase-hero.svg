@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Pramothraj R — Embedded systems, firmware and edge computing</title>
+<desc id="desc">A bold animated introduction with a floating processor illustration, travelling signals and a rotating typewriter introduction.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+  .mono { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; }
+  .still { display: none; }
+  @media (prefers-reduced-motion: reduce) {
+    .motion { display: none; }
+    .still { display: inline; }
+  }
+</style>
+<defs>
+  <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101326"/><stop offset=".58" stop-color="#10101d"/><stop offset="1" stop-color="#071d2b"/></linearGradient>
+  <radialGradient id="violet"><stop stop-color="#8257f6" stop-opacity=".55"/><stop offset="1" stop-color="#8257f6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cyan"><stop stop-color="#12d3ed" stop-opacity=".4"/><stop offset="1" stop-color="#12d3ed" stop-opacity="0"/></radialGradient>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#83a7ff"/><stop offset=".45" stop-color="#cd8bff"/><stop offset="1" stop-color="#5de3ef"/></linearGradient>
+  <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5767bf"/><stop offset=".42" stop-color="#253c74"/><stop offset="1" stop-color="#153d59"/></linearGradient>
+  <linearGradient id="border"><stop stop-color="#967bff"/><stop offset=".55" stop-color="#50cfff"/><stop offset="1" stop-color="#a6f2df"/></linearGradient>
+  <clipPath id="round"><rect width="1200" height="500" rx="24"/></clipPath>
+  <clipPath id="type-0"><rect x="0" y="-28" width="440.59999999999997" height="42">
+    <animate attributeName="width" values="0;440.59999999999997;440.59999999999997;0;0;0" keyTimes="0.00000;0.09000;0.18500;0.22500;0.25000;1.00000" dur="28s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<clipPath id="type-1"><rect x="0" y="-28" width="0" height="42">
+    <animate attributeName="width" values="0;0;361.4;361.4;0;0;0" keyTimes="0.00000;0.25000;0.34000;0.43500;0.47500;0.50000;1.00000" dur="28s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<clipPath id="type-2"><rect x="0" y="-28" width="0" height="42">
+    <animate attributeName="width" values="0;0;453.79999999999995;453.79999999999995;0;0;0" keyTimes="0.00000;0.50000;0.59000;0.68500;0.72500;0.75000;1.00000" dur="28s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<clipPath id="type-3"><rect x="0" y="-28" width="0" height="42">
+    <animate attributeName="width" values="0;0;480.2;480.2;0;0" keyTimes="0.00000;0.75000;0.84000;0.93500;0.97500;1.00000" dur="28s" repeatCount="indefinite"/>
+  </rect></clipPath>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="1200" height="500" fill="url(#canvas)"/>
+  <ellipse cx="1015" cy="169" rx="358" ry="280" fill="url(#violet)"/>
+  <ellipse cx="860" cy="386" rx="370" ry="260" fill="url(#cyan)"/>
+  <ellipse class="motion" cx="970" cy="205" rx="270" ry="208" fill="url(#violet)">
+    <animate attributeName="cx" values="970;1050;970" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".55;1;.55" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M64 54 H110" stroke="#8a86ff" stroke-width="3"/>
+  <text x="124" y="60" fill="#b1b8d2" font-size="16" letter-spacing="3">EMBEDDED SYSTEMS / FIRMWARE</text>
+  <text x="62" y="136" fill="#ffffff" font-size="65" font-weight="750" letter-spacing="-2.5">Pramothraj R</text>
+  <text x="62" y="207" fill="url(#spectrum)" font-size="52" font-weight="700" letter-spacing="-2">Code. Signals. Systems.</text>
+  <text x="66" y="252" fill="#b2bdd6" font-size="22">C programming, microcontrollers and intelligent sensing.</text>
+  <g transform="translate(66 315)" fill="#85e7ef">
+    <g class="motion"><g clip-path="url(#type-0)"><text y="0" class="mono" font-size="22">C / Embedded C / microcontrollers</text></g>
+  <rect y="-22" width="2" height="27" opacity="0">
+    <animate attributeName="x" values="0;440.59999999999997;440.59999999999997;0;0;0" keyTimes="0.00000;0.09000;0.18500;0.22500;0.25000;1.00000" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;0;0;0" keyTimes="0.00000;0.09000;0.18500;0.22500;0.25000;1.00000" calcMode="discrete" dur="28s" repeatCount="indefinite"/>
+  </rect>
+<g clip-path="url(#type-1)"><text y="0" class="mono" font-size="22">ARM / RTOS concepts / Linux</text></g>
+  <rect y="-22" width="2" height="27" opacity="0">
+    <animate attributeName="x" values="0;0;361.4;361.4;0;0;0" keyTimes="0.00000;0.25000;0.34000;0.43500;0.47500;0.50000;1.00000" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0;0" keyTimes="0.00000;0.25000;0.34000;0.43500;0.47500;0.50000;1.00000" calcMode="discrete" dur="28s" repeatCount="indefinite"/>
+  </rect>
+<g clip-path="url(#type-2)"><text y="0" class="mono" font-size="22">Sensing / control / edge computing</text></g>
+  <rect y="-22" width="2" height="27" opacity="0">
+    <animate attributeName="x" values="0;0;453.79999999999995;453.79999999999995;0;0;0" keyTimes="0.00000;0.50000;0.59000;0.68500;0.72500;0.75000;1.00000" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0;0" keyTimes="0.00000;0.50000;0.59000;0.68500;0.72500;0.75000;1.00000" calcMode="discrete" dur="28s" repeatCount="indefinite"/>
+  </rect>
+<g clip-path="url(#type-3)"><text y="0" class="mono" font-size="22">Open to graduate &amp; entry-level roles</text></g>
+  <rect y="-22" width="2" height="27" opacity="0">
+    <animate attributeName="x" values="0;0;480.2;480.2;0;0" keyTimes="0.00000;0.75000;0.84000;0.93500;0.97500;1.00000" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.00000;0.75000;0.84000;0.93500;0.97500;1.00000" calcMode="discrete" dur="28s" repeatCount="indefinite"/>
+  </rect></g>
+    <text class="still mono" font-size="22">C / Embedded C / microcontrollers</text>
+  </g>
+  <rect x="64" y="363" width="557" height="63" rx="14" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".1"/>
+  <text x="84" y="390" fill="#f0f3ff" font-size="18">M.E. Embedded System Technologies</text>
+  <text x="84" y="413" fill="#929fbd" font-size="15">CEG · Anna University · 2026</text>
+  <g fill="none" stroke="#35456a" stroke-width="2">
+    <path d="M743 157 H771 V187 H813"/><path d="M733 311 H769 V264 H813"/>
+    <path d="M1042 189 H1081 V152 H1148"/><path d="M1042 263 H1084 V305 H1152"/>
+    <ellipse cx="927" cy="367" rx="165" ry="35" stroke="#3b5480" stroke-opacity=".6"/>
+  </g>
+  <g class="motion" fill="#5be4e9">
+    <circle r="4"><animateMotion dur="3.6s" repeatCount="indefinite" path="M743 157 H771 V187 H813"/></circle>
+    <circle r="4" fill="#b796ff"><animateMotion dur="4.5s" repeatCount="indefinite" path="M733 311 H769 V264 H813"/></circle>
+    <circle r="4"><animateMotion dur="3.8s" repeatCount="indefinite" path="M1042 189 H1081 V152 H1148"/></circle>
+    <circle r="4" fill="#f9bd91"><animateMotion dur="4.2s" repeatCount="indefinite" path="M1042 263 H1084 V305 H1152"/></circle>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -11;0 0" dur="6s" repeatCount="indefinite"/>
+    <rect x="842" y="155" width="178" height="168" rx="27" fill="#020610" opacity=".75"/>
+    <path d="M838 174 H812 M1016 174 H1042" stroke="#7794bd" stroke-width="5" stroke-linecap="round"/>
+<path d="M838 192 H812 M1016 192 H1042" stroke="#7794bd" stroke-width="5" stroke-linecap="round"/>
+<path d="M838 210 H812 M1016 210 H1042" stroke="#7794bd" stroke-width="5" stroke-linecap="round"/>
+<path d="M838 228 H812 M1016 228 H1042" stroke="#7794bd" stroke-width="5" stroke-linecap="round"/>
+<path d="M838 246 H812 M1016 246 H1042" stroke="#7794bd" stroke-width="5" stroke-linecap="round"/>
+<path d="M838 264 H812 M1016 264 H1042" stroke="#7794bd" stroke-width="5" stroke-linecap="round"/>
+    <rect x="838" y="144" width="178" height="168" rx="26" fill="url(#chip)" stroke="url(#border)" stroke-width="2"/>
+    <rect x="853" y="159" width="148" height="138" rx="18" fill="#0b1730" stroke="#7bc7ff" stroke-opacity=".24"/>
+    <path d="M868 179 H984 M868 278 H984" stroke="#647dad" stroke-opacity=".35"/>
+    <text x="927" y="220" text-anchor="middle" fill="#f4f8ff" font-size="25" font-weight="700" letter-spacing="1">EMBEDDED</text>
+    <text x="927" y="249" text-anchor="middle" fill="#7dc4db" font-size="15" letter-spacing="3">C · MCU · I/O</text>
+    <circle class="motion" cx="982" cy="173" r="3.5" fill="#87edcf">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <path d="M64 467 H1136" stroke="#ffffff" stroke-opacity=".1"/>
+  <text x="66" y="487" fill="#a6b4cf" font-size="13" letter-spacing="2">CHENNAI, INDIA</text>
+  <text x="1136" y="487" text-anchor="end" fill="#8ecfcd" font-size="13" letter-spacing="1">OPEN TO GRADUATE / ENTRY-LEVEL ROLES</text>
+</g>
+</svg>
