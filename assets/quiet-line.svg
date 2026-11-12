@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Softly moving teal divider">
+  <style>@media (prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <path d="M0 14 H1200" stroke="#a3bcb0" stroke-opacity=".25"/>
+  <path class="motion" d="M0 14 H1200" stroke="#81a594" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="60 1140" opacity=".65">
+    <animate attributeName="stroke-dashoffset" values="60;-1140" dur="16s" repeatCount="indefinite"/>
+  </path>
+</svg>
