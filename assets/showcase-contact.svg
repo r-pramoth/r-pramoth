@@ -22,7 +22,7 @@
 <text x="59" y="108" fill="#f9f8ff" font-size="48" font-weight="750" letter-spacing="-1.2">Open to my first</text>
 <text x="59" y="167" fill="#f9f8ff" font-size="48" font-weight="750" letter-spacing="-1.2">embedded engineering role.</text>
 <text x="63" y="217" fill="#b2c7dc" font-size="21">Embedded software · Firmware · Graduate opportunities</text>
-<text x="63" y="252" fill="#8ca9c0" font-size="16">Chennai, India · pramothrajeee@gmail.com</text>
+<text x="63" y="252" fill="#8ca9c0" font-size="16">Chennai, India · harishanandh007@gmail.com</text>
 <circle cx="1015" cy="139" r="71" fill="url(#circle)"/>
 <circle class="motion" cx="1015" cy="139" r="88" fill="none" stroke="url(#circle)" stroke-width="2" stroke-dasharray="166 30 62 48 77 170">
   <animateTransform attributeName="transform" type="rotate" from="0 1015 139" to="360 1015 139" dur="12s" repeatCount="indefinite"/>
