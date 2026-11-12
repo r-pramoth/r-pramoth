@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/showcase-hero.svg?v=degrees-2" width="100%" alt="Pramothraj R — Embedded systems and firmware graduate. C, microcontrollers and intelligent sensing. Open to graduate and entry-level roles." />
+  <img src="./assets/showcase-hero.svg?v=mobility-2" width="100%" alt="Pramothraj R — Embedded systems and firmware graduate. C, microcontrollers and intelligent sensing. Open to graduate and entry-level roles." />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 **Embedded systems graduate with a foundation in C, microcontrollers, sensing and control.** My M.E. work focused on smart energy metering with edge computing; my undergraduate team project explored wind-turbine gear control. My public code includes a Python automation pipeline with offline regression tests and GitHub Actions.
 
-| Looking for | Education | Based in |
+| Looking for | Education | Work location |
 | --- | --- | --- |
-| Graduate / entry-level embedded software and firmware roles | M.E. Embedded System Technologies · CEG, Anna University | Chennai, India |
+| Graduate / entry-level embedded software and firmware roles | M.E. Embedded System Technologies · CEG, Anna University | **Bengaluru preferred** · Open across India and abroad |
 
 ## Public code
 
@@ -87,7 +87,7 @@ Technologies and concepts studied or used in project work:
 ## Contact
 
 <a href="mailto:harishanandh007@gmail.com">
-  <img src="./assets/showcase-contact.svg" width="100%" alt="Open to a first embedded engineering role. Contact Pramothraj for graduate embedded software and firmware opportunities." />
+  <img src="./assets/showcase-contact.svg?v=mobility-2" width="100%" alt="Open to a first embedded engineering role. Contact Pramothraj for graduate embedded software and firmware opportunities." />
 </a>
 
 <p align="center">
