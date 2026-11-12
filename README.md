@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/showcase-hero.svg?v=mobility-2" width="100%" alt="Pramothraj R — Embedded systems and firmware graduate. C, microcontrollers and intelligent sensing. Open to graduate and entry-level roles." />
+  <img src="https://raw.githubusercontent.com/r-pramoth/r-pramoth/78259abef776a4d5acb0b86b26bc6f8b37d72581/assets/showcase-hero.svg" width="100%" alt="Pramothraj R — Embedded systems and firmware graduate. C, microcontrollers and intelligent sensing. Open to graduate and entry-level roles." />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ Technologies and concepts studied or used in project work:
 ## Contact
 
 <a href="mailto:harishanandh007@gmail.com">
-  <img src="./assets/showcase-contact.svg?v=mobility-2" width="100%" alt="Open to a first embedded engineering role. Contact Pramothraj for graduate embedded software and firmware opportunities." />
+  <img src="https://raw.githubusercontent.com/r-pramoth/r-pramoth/78259abef776a4d5acb0b86b26bc6f8b37d72581/assets/showcase-contact.svg" width="100%" alt="Open to a first embedded engineering role. Contact Pramothraj for graduate embedded software and firmware opportunities." />
 </a>
 
 <p align="center">
