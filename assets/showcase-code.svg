@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="375" viewBox="0 0 1200 375" role="img" aria-labelledby="title desc">
+<title id="title">Public code — Embedded job discovery automation</title>
+<desc id="desc">An animated four-stage pipeline showing the actual public project's RSS collection, filtering, ranking and Markdown reporting.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+  .mono { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; }
+  .still { display: none; }
+  @media (prefers-reduced-motion: reduce) {
+    .motion { display: none; }
+    .still { display: inline; }
+  }
+</style>
+<defs>
+  <linearGradient id="canvas"><stop stop-color="#0c172b"/><stop offset="1" stop-color="#0e1622"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#608cfa"/><stop offset=".5" stop-color="#b57bf7"/><stop offset="1" stop-color="#4ce1ce"/></linearGradient>
+</defs>
+<rect width="1200" height="375" rx="22" fill="url(#canvas)"/>
+<text x="62" y="48" fill="#83b8ff" font-size="15" letter-spacing="3">01 / PUBLIC CODE</text>
+<text x="60" y="109" fill="#f7f9ff" font-size="49" font-weight="750" letter-spacing="-1.5">Discover. Filter. Rank. Report.</text>
+<text x="63" y="151" fill="#a8bad4" font-size="21">A Python workflow that turns RSS leads into a ranked report.</text>
+<g>
+    <rect x="62" y="200" width="230" height="112" rx="17" fill="#ffffff" fill-opacity=".035" stroke="#7ba8ff" stroke-opacity=".38">
+    <animate attributeName="stroke-opacity" values=".25;1;.25;.25" keyTimes="0;.2;.4;1" begin="0s" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".035;.11;.035;.035" keyTimes="0;.2;.4;1" begin="0s" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+    <text x="80" y="229" fill="#7ba8ff" class="mono" font-size="14">01</text>
+    <text x="80" y="261" fill="#f6f8ff" font-size="23" font-weight="650">COLLECT</text>
+    <text x="80" y="289" fill="#9aa9c5" font-size="16">RSS / HTTP</text>
+    <path d="M300 253 H335 L327 246 M335 253 L327 260" fill="none" stroke="#4e658b" stroke-width="2"/>
+  </g>
+<g>
+    <rect x="344" y="200" width="230" height="112" rx="17" fill="#ffffff" fill-opacity=".035" stroke="#b28bfa" stroke-opacity=".38">
+    <animate attributeName="stroke-opacity" values=".25;1;.25;.25" keyTimes="0;.2;.4;1" begin="1.2s" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".035;.11;.035;.035" keyTimes="0;.2;.4;1" begin="1.2s" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+    <text x="362" y="229" fill="#b28bfa" class="mono" font-size="14">02</text>
+    <text x="362" y="261" fill="#f6f8ff" font-size="23" font-weight="650">FILTER</text>
+    <text x="362" y="289" fill="#9aa9c5" font-size="16">Experience / terms</text>
+    <path d="M582 253 H617 L609 246 M617 253 L609 260" fill="none" stroke="#4e658b" stroke-width="2"/>
+  </g>
+<g>
+    <rect x="626" y="200" width="230" height="112" rx="17" fill="#ffffff" fill-opacity=".035" stroke="#55d5db" stroke-opacity=".38">
+    <animate attributeName="stroke-opacity" values=".25;1;.25;.25" keyTimes="0;.2;.4;1" begin="2.4s" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".035;.11;.035;.035" keyTimes="0;.2;.4;1" begin="2.4s" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+    <text x="644" y="229" fill="#55d5db" class="mono" font-size="14">03</text>
+    <text x="644" y="261" fill="#f6f8ff" font-size="23" font-weight="650">RANK</text>
+    <text x="644" y="289" fill="#9aa9c5" font-size="16">Relevance / freshness</text>
+    <path d="M864 253 H899 L891 246 M899 253 L891 260" fill="none" stroke="#4e658b" stroke-width="2"/>
+  </g>
+<g>
+    <rect x="908" y="200" width="230" height="112" rx="17" fill="#ffffff" fill-opacity=".035" stroke="#ffc08a" stroke-opacity=".38">
+    <animate attributeName="stroke-opacity" values=".25;1;.25;.25" keyTimes="0;.2;.4;1" begin="3.5999999999999996s" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".035;.11;.035;.035" keyTimes="0;.2;.4;1" begin="3.5999999999999996s" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+    <text x="926" y="229" fill="#ffc08a" class="mono" font-size="14">04</text>
+    <text x="926" y="261" fill="#f6f8ff" font-size="23" font-weight="650">REPORT</text>
+    <text x="926" y="289" fill="#9aa9c5" font-size="16">Markdown / delivery</text>
+    
+  </g>
+<path class="motion" d="M62 326 H1138" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="150 926">
+  <animate attributeName="stroke-dashoffset" values="150;-1076" dur="6s" repeatCount="indefinite"/>
+</path>
+<g class="motion">
+  <circle r="4" fill="#bba1ff"><animateMotion dur="6s" repeatCount="indefinite" path="M62 194 H1138"/></circle>
+</g>
+<text x="63" y="354" fill="#9facc2" font-size="17">PYTHON STANDARD LIBRARY  ·  GITHUB ACTIONS  ·  OFFLINE REGRESSION TESTS</text>
+</svg>
