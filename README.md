@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pramothrajeee@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get_in_touch-7055E8?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Pramothraj" /></a>
+  <a href="mailto:harishanandh007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get_in_touch-7055E8?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Pramothraj" /></a>
   <a href="https://www.linkedin.com/in/pramothraj/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-1878B9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/r-pramoth?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore_code-253450?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore public repositories" /></a>
 </p>
@@ -86,11 +86,11 @@ Technologies and concepts studied or used in project work:
 
 ## Contact
 
-<a href="mailto:pramothrajeee@gmail.com">
+<a href="mailto:harishanandh007@gmail.com">
   <img src="./assets/showcase-contact.svg" width="100%" alt="Open to a first embedded engineering role. Contact Pramothraj for graduate embedded software and firmware opportunities." />
 </a>
 
 <p align="center">
-  <a href="mailto:pramothrajeee@gmail.com"><strong>pramothrajeee@gmail.com</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:harishanandh007@gmail.com"><strong>harishanandh007@gmail.com</strong></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/pramothraj/"><strong>LinkedIn</strong></a>
 </p>
