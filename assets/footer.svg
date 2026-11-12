@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img" aria-label="Let's build reliable embedded systems - animated waveform">
+  <defs><linearGradient id="bg"><stop stop-color="#0b182b"/><stop offset="1" stop-color="#211b42"/></linearGradient><linearGradient id="wave"><stop stop-color="#30dfbc"/><stop offset=".6" stop-color="#4da9ff"/><stop offset="1" stop-color="#b38aff"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="143" rx="18" fill="url(#bg)" stroke="#35516b"/>
+  <path d="M0 111H180L195 100L211 124L231 88L250 111H425L440 102L456 122L478 91L496 111H713L731 100L747 126L769 84L790 111H960L976 99L992 123L1014 90L1034 111H1200" fill="none" stroke="url(#wave)" opacity=".35" stroke-width="2"/>
+  <path d="M0 111H180L195 100L211 124L231 88L250 111H425L440 102L456 122L478 91L496 111H713L731 100L747 126L769 84L790 111H960L976 99L992 123L1014 90L1034 111H1200" fill="none" stroke="#64e4d5" stroke-width="2" stroke-dasharray="65 1220"><animate attributeName="stroke-dashoffset" values="1285;0" dur="7s" repeatCount="indefinite"/></path>
+  <text x="600" y="49" text-anchor="middle" fill="#ecf5ff" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="1">LET'S BUILD RELIABLE EMBEDDED SYSTEMS.</text>
+  <text x="600" y="78" text-anchor="middle" fill="#9eb6d0" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">ELECTRONICS + CODE + CURIOSITY</text>
+</svg>

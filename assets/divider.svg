@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="Animated circuit divider">
+  <defs><linearGradient id="line"><stop stop-color="#28cfb1" stop-opacity="0"/><stop offset=".3" stop-color="#28cfb1"/><stop offset=".7" stop-color="#9978ef"/><stop offset="1" stop-color="#9978ef" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 18H448L460 6H520L532 18H668L680 30H740L752 18H1200" stroke="url(#line)" stroke-width="2" fill="none" opacity=".7"/>
+  <circle cx="600" cy="18" r="4" fill="#4dd9c4"/>
+  <circle r="3" fill="#77dff3"><animateMotion path="M0 18H448L460 6H520L532 18H668L680 30H740L752 18H1200" dur="7s" repeatCount="indefinite"/></circle>
+</svg>

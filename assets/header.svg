@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pramothraj R - Embedded Systems and Firmware</title>
+  <desc id="desc">Animated circuit artwork and rotating text introducing an embedded systems graduate open to graduate firmware roles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#08111f"/><stop offset=".58" stop-color="#10243a"/><stop offset="1" stop-color="#211b49"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39e9ca"/><stop offset=".55" stop-color="#3ba9ff"/><stop offset="1" stop-color="#b18bff"/>
+    </linearGradient>
+    <radialGradient id="halo"><stop stop-color="#20d8c4" stop-opacity=".16"/><stop offset="1" stop-color="#20d8c4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ab6d0" stroke-opacity=".065"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="418" rx="24"/></clipPath>
+    <clipPath id="type1"><rect x="89" y="307" height="30" width="0"><animate attributeName="width" values="0;600;600;0;0" keyTimes="0;.19;.28;.32;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type2"><rect x="89" y="307" height="30" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;.33;.52;.61;.65;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type3"><rect x="89" y="307" height="30" width="0"><animate attributeName="width" values="0;0;600;600;0" keyTimes="0;.66;.85;.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", Arial, sans-serif; }
+    .mono { font-family: Consolas, "Liberation Mono", monospace; }
+    .still { display: none; }
+    @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+    <ellipse cx="976" cy="208" rx="270" ry="270" fill="url(#halo)"/>
+    <path d="M0 4H310L328 22H500" fill="none" stroke="url(#edge)" stroke-width="3" opacity=".7"/>
+    <path d="M808 399H1100L1120 379H1200" fill="none" stroke="url(#edge)" stroke-width="3" opacity=".6"/>
+    <circle cx="63" cy="65" r="5" fill="#43e3b3"/>
+    <circle class="motion" cx="63" cy="65" r="5" fill="none" stroke="#43e3b3">
+      <animate attributeName="r" values="5;16" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".65;0" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="79" y="71" fill="#8debd6" font-size="16" font-weight="600" letter-spacing="2.3">OPEN TO GRADUATE OPPORTUNITIES</text>
+    <text x="55" y="155" fill="#f3f7ff" font-size="64" font-weight="750" letter-spacing="-1.5">PRAMOTHRAJ R</text>
+    <rect x="58" y="182" width="48" height="4" rx="2" fill="#43e3d3"/>
+    <text x="58" y="224" fill="#b5c6db" font-size="23" letter-spacing="2.4">EMBEDDED SYSTEMS / FIRMWARE / EDGE AI</text>
+    <text x="58" y="261" fill="#829ab6" font-size="18">Electronics. Embedded programming. Intelligent sensing.</text>
+    <rect x="56" y="289" width="675" height="62" rx="10" fill="#070f1c" stroke="#284058"/>
+    <text x="71" y="328" class="mono" fill="#45e7ca" font-size="23">&gt;</text>
+    <g class="motion mono" fill="#d2e0ef" font-size="20">
+      <text x="89" y="328" clip-path="url(#type1)">C / Embedded C / microcontrollers</text>
+      <text x="89" y="328" clip-path="url(#type2)">ARM / RTOS foundations / Linux</text>
+      <text x="89" y="328" clip-path="url(#type3)">Open to embedded &amp; firmware roles</text>
+      <rect x="704" y="309" width="9" height="23" rx="1" fill="#45e7ca">
+        <animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <text x="89" y="328" class="still mono" fill="#d2e0ef" font-size="20">C / Embedded C / microcontrollers</text>
+    <text x="58" y="385" fill="#7f9ab4" class="mono" font-size="14" letter-spacing="1.4">M.E. EMBEDDED SYSTEM TECHNOLOGIES / ANNA UNIVERSITY</text>
+    <g fill="none" stroke="#3b6580" stroke-width="2" opacity=".7">
+      <path d="M850 163H807L775 131H735"/><path d="M850 193H784L749 228H725"/>
+      <path d="M850 223H804L766 261"/><path d="M850 253H813L783 283"/>
+      <path d="M1056 163H1094L1125 132H1200"/><path d="M1056 193H1120L1150 223H1200"/>
+      <path d="M1056 223H1103L1139 259H1200"/><path d="M1056 253H1097L1136 292H1200"/>
+      <path d="M908 133V92L938 62V20"/><path d="M958 133V75L993 40V0"/>
+      <path d="M908 283V323L876 355V420"/><path d="M958 283V341L990 373V420"/>
+    </g>
+    <circle cx="953" cy="208" r="128" fill="none" stroke="#2b4b67" stroke-opacity=".5"/>
+    <g class="motion">
+      <circle cx="953" cy="208" r="128" fill="none" stroke="url(#edge)" stroke-width="2" stroke-dasharray="80 725" opacity=".8">
+        <animateTransform attributeName="transform" type="rotate" from="0 953 208" to="360 953 208" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" fill="#45e7ca"><animateMotion path="M735 131H775L807 163H850" dur="3s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#a88bfa"><animateMotion path="M1056 223H1103L1139 259H1200" dur="4s" begin="-2s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#58baff"><animateMotion path="M958 133V75L993 40V0" dur="3.8s" begin="-1s" repeatCount="indefinite"/></circle>
+      <circle r="4" fill="#45e7ca"><animateMotion path="M908 283V323L876 355V420" dur="4.3s" begin="-2s" repeatCount="indefinite"/></circle>
+    </g>
+    <rect x="850" y="133" width="206" height="150" rx="20" fill="#0b192a" stroke="url(#edge)" stroke-width="2"/>
+    <rect x="861" y="144" width="184" height="128" rx="12" fill="#10253a" stroke="#345267"/>
+    <path d="M878 164h26M878 164v26M1028 252h-26M1028 252v-26" fill="none" stroke="#3cdcc7" opacity=".7"/>
+    <text x="953" y="208" text-anchor="middle" fill="#e8f6ff" class="mono" font-size="40" font-weight="700" letter-spacing="5">MCU</text>
+    <text x="953" y="239" text-anchor="middle" fill="#72a2c2" class="mono" font-size="12" letter-spacing="3">SENSE / COMPUTE</text>
+    <circle class="motion" cx="1021" cy="159" r="3.5" fill="#43e3b3"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="1" y="1" width="1198" height="418" rx="24" fill="none" stroke="url(#edge)" stroke-opacity=".4"/>
+</svg>
