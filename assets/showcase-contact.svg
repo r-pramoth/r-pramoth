@@ -18,7 +18,7 @@
 <ellipse class="motion" cx="960" cy="135" rx="205" ry="146" fill="url(#light)">
   <animate attributeName="rx" values="205;270;205" dur="7s" repeatCount="indefinite"/>
 </ellipse>
-<text x="63" y="47" fill="#c3aff5" font-size="15" letter-spacing="3">04 / LET'S CONNECT</text>
+<text x="63" y="47" fill="#c3aff5" font-size="15" letter-spacing="3">05 / LET'S CONNECT</text>
 <text x="59" y="108" fill="#f9f8ff" font-size="48" font-weight="750" letter-spacing="-1.2">Open to my first</text>
 <text x="59" y="167" fill="#f9f8ff" font-size="48" font-weight="750" letter-spacing="-1.2">embedded engineering role.</text>
 <text x="63" y="217" fill="#b2c7dc" font-size="21">Embedded software · Firmware · Graduate opportunities</text>
