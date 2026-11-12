@@ -1,7 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Softly moving teal divider">
-  <style>@media (prefers-reduced-motion:reduce){.motion{display:none}}</style>
-  <path d="M0 14 H1200" stroke="#a3bcb0" stroke-opacity=".25"/>
-  <path class="motion" d="M0 14 H1200" stroke="#81a594" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="60 1140" opacity=".65">
-    <animate attributeName="stroke-dashoffset" values="60;-1140" dur="16s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="Colourful flowing wave divider">
+  <defs><linearGradient id="colours"><stop stop-color="#f1837c"/><stop offset=".4" stop-color="#ad74e6"/><stop offset=".72" stop-color="#49b9cf"/><stop offset="1" stop-color="#36b8a5"/></linearGradient></defs>
+  <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <path d="M0 18 Q150 6 300 18 T600 18 T900 18 T1200 18" fill="none" stroke="url(#colours)" stroke-width="2" opacity=".55"/>
+  <path class="motion" d="M0 18 Q150 6 300 18 T600 18 T900 18 T1200 18" fill="none" stroke="url(#colours)" stroke-width="3" stroke-linecap="round" stroke-dasharray="105 1099">
+    <animate attributeName="stroke-dashoffset" values="105;-1099" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="d" values="M0 18 Q150 6 300 18 T600 18 T900 18 T1200 18;M0 18 Q150 30 300 18 T600 18 T900 18 T1200 18;M0 18 Q150 6 300 18 T600 18 T900 18 T1200 18" dur="6s" repeatCount="indefinite"/>
   </path>
+  <circle class="motion" r="3.5" fill="#9d67df" opacity=".8"><animateMotion dur="9s" repeatCount="indefinite" path="M0 18 Q150 6 300 18 T600 18 T900 18 T1200 18"/></circle>
 </svg>
