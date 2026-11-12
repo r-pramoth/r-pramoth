@@ -1,12 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-labelledby="title desc">
   <title id="title">Have an embedded or firmware role in mind? I'd love to hear about it.</title>
-  <desc id="desc">A simple contact invitation above a gently rolling wave.</desc>
+  <desc id="desc">A colourful invitation with rolling coral and turquoise waves and a small flying paper plane.</desc>
+  <defs>
+    <linearGradient id="paper"><stop stop-color="#fff0df"/><stop offset=".5" stop-color="#f1e5ff"/><stop offset="1" stop-color="#d5f5ef"/></linearGradient>
+    <linearGradient id="wave"><stop stop-color="#ff9f7c"/><stop offset=".5" stop-color="#b18ae7"/><stop offset="1" stop-color="#39bdb5"/></linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="148" rx="16"/></clipPath>
+  </defs>
   <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
-  <rect width="1200" height="132" rx="14" fill="#f6f7f1"/>
-  <text x="40" y="44" fill="#3f5b4d" font-size="24">Have an embedded or firmware role in mind?</text>
-  <text x="40" y="77" fill="#69786c" font-size="19">I'd love to hear about it.</text>
-  <path d="M0 113 Q300 91 600 113 T1200 113 V132 H0Z" fill="#dce9df"/>
-  <path class="motion" d="M0 113 Q300 91 600 113 T1200 113 V132 H0Z" fill="#cbded1" opacity=".6">
-    <animate attributeName="d" values="M0 113 Q300 91 600 113 T1200 113 V132 H0Z;M0 107 Q300 128 600 107 T1200 107 V132 H0Z;M0 113 Q300 91 600 113 T1200 113 V132 H0Z" dur="16s" repeatCount="indefinite"/>
-  </path>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="148" fill="url(#paper)"/>
+    <text x="40" y="47" fill="#7043a1" font-size="25">Have an embedded or firmware role in mind?</text>
+    <text x="40" y="82" fill="#735974" font-size="20">I'd love to hear about it.</text>
+    <path d="M790 95 Q930 -12 1122 69" fill="none" stroke="#a379ce" stroke-width="1.5" stroke-dasharray="5 8" opacity=".3"/>
+    <g class="motion">
+      <animateMotion dur="8s" repeatCount="indefinite" rotate="auto" path="M790 95 Q930 -12 1122 69"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.8;1" dur="8s" repeatCount="indefinite"/>
+      <path d="M-17 -10 L19 0 L-17 10 L-8 0 Z" fill="#8e60cc"/>
+      <path d="M-8 0 H19" stroke="#f9edff" stroke-width="1.3"/>
+    </g>
+    <path d="M0 123 Q300 101 600 123 T1200 123 V148 H0Z" fill="url(#wave)" opacity=".65"/>
+    <path class="motion" d="M0 123 Q300 101 600 123 T1200 123 V148 H0Z" fill="url(#wave)" opacity=".75">
+      <animate attributeName="d" values="M0 123 Q300 101 600 123 T1200 123 V148 H0Z;M0 111 Q300 144 600 111 T1200 111 V148 H0Z;M0 123 Q300 101 600 123 T1200 123 V148 H0Z" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path class="motion" d="M0 137 Q300 117 600 137 T1200 137 V148 H0Z" fill="#40bdb5" opacity=".45">
+      <animate attributeName="d" values="M0 137 Q300 117 600 137 T1200 137 V148 H0Z;M0 128 Q300 151 600 128 T1200 128 V148 H0Z;M0 137 Q300 117 600 137 T1200 137 V148 H0Z" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
 </svg>
