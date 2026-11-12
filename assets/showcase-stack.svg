@@ -14,7 +14,7 @@
   <linearGradient id="spectrum"><stop stop-color="#73e3d6"/><stop offset=".5" stop-color="#8caeff"/><stop offset="1" stop-color="#c18df5"/></linearGradient>
 </defs>
 <rect width="1200" height="355" rx="22" fill="url(#canvas)"/>
-<text x="62" y="49" fill="#8db7ed" font-size="15" letter-spacing="3">03 / TECHNICAL FOUNDATION</text>
+<text x="62" y="49" fill="#8db7ed" font-size="15" letter-spacing="3">02 / TECHNICAL FOUNDATION</text>
 <text x="58" y="119" fill="#f6f9ff" font-size="52" font-weight="750" letter-spacing="-1.6">Start with C.</text>
 <text x="58" y="183" fill="url(#spectrum)" font-size="52" font-weight="750" letter-spacing="-1.6">Think in systems.</text>
 <text x="62" y="238" fill="#a6b6cf" font-size="22">Microcontrollers, interfaces</text>
