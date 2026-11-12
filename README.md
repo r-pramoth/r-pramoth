@@ -62,7 +62,7 @@ These entries provide public overviews. The reports, detailed research methodolo
 
 An automation project that collects Google News RSS results, enriches and ranks potentially relevant embedded / firmware opportunities, and generates Markdown reports. It supports scheduled or manual runs, results issues, downloadable artifacts and optional Telegram delivery.
 
-[**Explore the repository →**](https://github.com/r-pramoth/embedded-systems-job-search) · [Read the implementation](https://github.com/r-pramoth/embedded-systems-job-search/blob/main/scripts/job_search.py) · [Inspect the workflow](https://github.com/r-pramoth/embedded-systems-job-search/blob/main/.github/workflows/job-search.yml)
+[**Explore the repository →**](https://github.com/r-pramoth/embedded-systems-job-search) · [Read the implementation](https://github.com/r-pramoth/embedded-systems-job-search/blob/main/scripts/job_search.py) · [Inspect the workflow](https://github.com/r-pramoth/embedded-systems-job-search/blob/main/.github/workflows/job-search.yml) · [Review regression tests](https://github.com/r-pramoth/embedded-systems-job-search/blob/main/tests/test_job_search.py) · [View CI checks](https://github.com/r-pramoth/embedded-systems-job-search/actions/workflows/ci.yml)
 
 <img src="./assets/divider.svg" width="100%" alt="Animated circuit signal divider" />
 
