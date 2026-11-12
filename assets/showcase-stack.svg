@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="355" viewBox="0 0 1200 355" role="img" aria-labelledby="title desc">
+<title id="title">Technical foundation — From C to embedded systems</title><desc id="desc">Animated layers group the profile's application interests, embedded programming and architecture foundations without proficiency scores.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+  .mono { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; }
+  .still { display: none; }
+  @media (prefers-reduced-motion: reduce) {
+    .motion { display: none; }
+    .still { display: inline; }
+  }
+</style>
+<defs>
+  <linearGradient id="canvas"><stop stop-color="#0d1726"/><stop offset="1" stop-color="#15132a"/></linearGradient>
+  <linearGradient id="spectrum"><stop stop-color="#73e3d6"/><stop offset=".5" stop-color="#8caeff"/><stop offset="1" stop-color="#c18df5"/></linearGradient>
+</defs>
+<rect width="1200" height="355" rx="22" fill="url(#canvas)"/>
+<text x="62" y="49" fill="#8db7ed" font-size="15" letter-spacing="3">03 / TECHNICAL FOUNDATION</text>
+<text x="58" y="119" fill="#f6f9ff" font-size="52" font-weight="750" letter-spacing="-1.6">Start with C.</text>
+<text x="58" y="183" fill="url(#spectrum)" font-size="52" font-weight="750" letter-spacing="-1.6">Think in systems.</text>
+<text x="62" y="238" fill="#a6b6cf" font-size="22">Microcontrollers, interfaces</text>
+<text x="62" y="269" fill="#a6b6cf" font-size="22">and real-time concepts.</text>
+<path d="M606 105 V282" stroke="#4d6384" stroke-width="2"/>
+<circle class="motion" cx="606" cy="105" r="4" fill="#9be3ec"><animate attributeName="cy" values="282;105" dur="3.6s" repeatCount="indefinite"/></circle>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 4;0 0" dur="5s" repeatCount="indefinite"/>
+  <rect x="647" y="72" width="489" height="69" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#6ae1d3" stroke-opacity=".45"/>
+  <rect x="647" y="87" width="3" height="39" rx="1.5" fill="#6ae1d3"/>
+  <text x="668" y="95" fill="#6ae1d3" font-size="12" class="mono" letter-spacing="1.5">APPLICATION</text>
+  <text x="668" y="122" fill="#eaf2ff" font-size="21">Sensing / control / energy</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6s" repeatCount="indefinite"/>
+  <rect x="647" y="157" width="489" height="69" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#94baff" stroke-opacity=".45"/>
+  <rect x="647" y="172" width="3" height="39" rx="1.5" fill="#94baff"/>
+  <text x="668" y="180" fill="#94baff" font-size="12" class="mono" letter-spacing="1.5">FIRMWARE</text>
+  <text x="668" y="207" fill="#eaf2ff" font-size="21">C / Embedded C / microcontrollers</text>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 4;0 0" dur="7s" repeatCount="indefinite"/>
+  <rect x="647" y="242" width="489" height="69" rx="14" fill="#ffffff" fill-opacity=".035" stroke="#c29bff" stroke-opacity=".45"/>
+  <rect x="647" y="257" width="3" height="39" rx="1.5" fill="#c29bff"/>
+  <text x="668" y="265" fill="#c29bff" font-size="12" class="mono" letter-spacing="1.5">FOUNDATIONS</text>
+  <text x="668" y="292" fill="#eaf2ff" font-size="21">ARM / RTOS concepts / Linux</text>
+</g>
+<path d="M62 326 H1136" stroke="url(#spectrum)" stroke-opacity=".2"/>
+<path class="motion" d="M62 326 H1136" stroke="url(#spectrum)" stroke-width="2" stroke-dasharray="140 934"><animate attributeName="stroke-dashoffset" values="140;-1074" dur="7s" repeatCount="indefinite"/></path>
+</svg>
