@@ -15,7 +15,7 @@
   <linearGradient id="accent"><stop stop-color="#608cfa"/><stop offset=".5" stop-color="#b57bf7"/><stop offset="1" stop-color="#4ce1ce"/></linearGradient>
 </defs>
 <rect width="1200" height="375" rx="22" fill="url(#canvas)"/>
-<text x="62" y="48" fill="#83b8ff" font-size="15" letter-spacing="3">01 / PUBLIC CODE</text>
+<text x="62" y="48" fill="#83b8ff" font-size="15" letter-spacing="3">04 / PUBLIC CODE</text>
 <text x="60" y="109" fill="#f7f9ff" font-size="49" font-weight="750" letter-spacing="-1.5">Discover. Filter. Rank. Report.</text>
 <text x="63" y="151" fill="#a8bad4" font-size="21">A Python workflow that turns RSS leads into a ranked report.</text>
 <g>
