@@ -103,7 +103,7 @@
     </circle>
   </g>
   <path d="M64 467 H1136" stroke="#ffffff" stroke-opacity=".1"/>
-  <text x="66" y="487" fill="#a6b4cf" font-size="13" letter-spacing="2">CHENNAI, INDIA</text>
+  <text x="66" y="487" fill="#a6b4cf" font-size="13" letter-spacing="1.2">BENGALURU PREFERRED · INDIA &amp; ABROAD</text>
   <text x="1136" y="487" text-anchor="end" fill="#8ecfcd" font-size="13" letter-spacing="1">OPEN TO GRADUATE / ENTRY-LEVEL ROLES</text>
 </g>
 </svg>
