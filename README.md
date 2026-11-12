@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/showcase-hero.svg" width="100%" alt="Pramothraj R — Embedded systems and firmware graduate. C, microcontrollers and intelligent sensing. Open to graduate and entry-level roles." />
+  <img src="./assets/showcase-hero.svg?v=degrees-2" width="100%" alt="Pramothraj R — Embedded systems and firmware graduate. C, microcontrollers and intelligent sensing. Open to graduate and entry-level roles." />
 </p>
 
 <p align="center">
