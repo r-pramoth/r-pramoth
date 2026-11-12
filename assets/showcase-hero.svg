@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
 <title id="title">Pramothraj R — Embedded systems, firmware and edge computing</title>
-<desc id="desc">A bold animated introduction with a floating processor illustration, travelling signals and a rotating typewriter introduction.</desc>
+<desc id="desc">A bold animated introduction with a floating processor illustration, travelling signals and a rotating typewriter introduction. The education cards list M.E. Embedded System Technologies, CEG, Anna University, 2026, and B.E. Electrical and Electronics Engineering, Rajalakshmi Engineering College, 2020.</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
   .mono { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; }
@@ -70,10 +70,13 @@
   <rect x="64" y="363" width="557" height="63" rx="14" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".1"/>
   <text x="84" y="390" fill="#f0f3ff" font-size="18">M.E. Embedded System Technologies</text>
   <text x="84" y="413" fill="#929fbd" font-size="15">CEG · Anna University · 2026</text>
+  <rect x="649" y="363" width="487" height="63" rx="14" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".1"/>
+  <text x="669" y="390" fill="#f0f3ff" font-size="18">B.E. Electrical and Electronics Engineering</text>
+  <text x="669" y="413" fill="#929fbd" font-size="15">Rajalakshmi Engineering College · 2020</text>
   <g fill="none" stroke="#35456a" stroke-width="2">
     <path d="M743 157 H771 V187 H813"/><path d="M733 311 H769 V264 H813"/>
     <path d="M1042 189 H1081 V152 H1148"/><path d="M1042 263 H1084 V305 H1152"/>
-    <ellipse cx="927" cy="367" rx="165" ry="35" stroke="#3b5480" stroke-opacity=".6"/>
+    <ellipse cx="927" cy="337" rx="165" ry="20" stroke="#3b5480" stroke-opacity=".6"/>
   </g>
   <g class="motion" fill="#5be4e9">
     <circle r="4"><animateMotion dur="3.6s" repeatCount="indefinite" path="M743 157 H771 V187 H813"/></circle>
